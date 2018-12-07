@@ -11,7 +11,7 @@ $(document).ready( function(){
     $(this).next().toggle(700);
   })
 
-  Footer
+  // Footer
 
   $('footer').click( function(){
     $(this).animate( {
